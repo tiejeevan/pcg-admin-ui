@@ -1,2 +1,0 @@
-# pcg-admin-ui
-xyz
